@@ -36,4 +36,6 @@ git commit -m "message"
 
 
 <!-- to change in github too -->
-push<!-- upload local(laptop) repo(folder) content to remote(online) repo-->
+push<!-- upload local(laptop) repo(folder) content to remote(online) repo -->
+
+git push origin main
